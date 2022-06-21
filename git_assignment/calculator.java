@@ -63,6 +63,12 @@ public class calculator {
 	            o = (num1 /100)*100;
 	  
 	            break;
+				    case '':
+	              System.out.println ("advance calculator");
+                          num1=sc.nextInt();
+	            o = (num1 /100)*100;
+	  
+	            break;
 
 
 	  
